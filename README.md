@@ -5,7 +5,7 @@ A lightweight computer vision project that classifies images of apples and orang
 This project demonstrates basic image preprocessing, channel conversion (BGR to RGB), and model inference using TensorFlow and OpenCV.
 
 ## 🛠️ Tech Stack
-* **Language:** Python 3.11
+* **Language:** Python 3.12
 * **Machine Learning:** TensorFlow / Keras (Legacy Keras 2 format)
 * **Computer Vision:** OpenCV (`cv2`)
 * **Data Manipulation:** NumPy
