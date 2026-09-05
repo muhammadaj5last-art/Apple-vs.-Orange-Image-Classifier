@@ -16,9 +16,3 @@ This project demonstrates basic image preprocessing, channel conversion (BGR to 
 * `labels.txt`: The text file containing the class names (`0 Apple`, `1 Orange`).
 * `test_image.jpg`: A sample image used to test the model (replace with your own).
 
-## 🚀 Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
